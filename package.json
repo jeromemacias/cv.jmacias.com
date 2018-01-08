@@ -1,0 +1,16 @@
+{
+  "name": "cv.jmacias.com",
+  "version": "1.0.0",
+  "description": "Resume of Jérôme Macias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérôme Macias <jerome.macias@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jsonresume-theme-elegant-fr": "~1.2.1",
+    "jsonresume-theme-onepage-fr": "0.0.6",
+    "resume-cli": "~0.4.19"
+  }
+}

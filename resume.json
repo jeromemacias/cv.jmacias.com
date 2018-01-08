@@ -1,0 +1,321 @@
+{
+  "basics": {
+    "name": "Jérôme Macias",
+    "label": "Full-Stack Agile Web Dev & Ops",
+    "picture": "",
+    "email": "jerome.macias@gmail.com",
+    "phone": "06 27 61 35 46",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "Rue Villiers de l'Isle Adam",
+      "postalCode": "75020",
+      "city": "Paris",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "jeromemacias",
+        "url": "https://github.com/jeromemacias"
+      },
+      {
+        "network": "Twitter",
+        "username": "jeromemacias",
+        "url": "http://www.twitter.com/jeromemacias"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance",
+      "position": "Full-Stack Agile Web Dev & Ops",
+      "startDate": "2018-01-01",
+      "summary": "",
+      "highlights": [
+        "Migration d'applicatifs entre 2 infrastructures"
+      ]
+    },
+    {
+      "company": "Editions Croque Futur",
+      "position": "Lead web developer Backend & DevOps",
+      "website": "https://www.challenges.fr/mentions-legales",
+      "startDate": "2017-01-01",
+      "endDate": "2017-12-31",
+      "summary": "",
+      "highlights": [
+          "Stabilisation et robustesse de Challenges.fr et Sciencesetavenir.fr (logs applicatifs pertinants, monitoring serveurs avec alerting, ...)",
+          "Optimisation des performances Front (appels ajax asynchrones, Javascript), Back (Applications Nodejs et Drupal) et Infra (configurations et mises à jour)",
+          "Développement des pages et scripts d'import des résultats des Elections Françaises 2017 (Présidentielle et Législatives) et passage des sites en HTTP/2 (HTTPS)"
+      ]
+    },
+    {
+      "company": "Kpsule",
+      "position": "CTO",
+      "website": "http://kpsule.me",
+      "startDate": "2016-05-01",
+      "endDate": "2016-12-31",
+      "summary": "",
+      "highlights": [
+        "Renouvellement équipes tech, refonte Back-Office (ReactJS), technologie redirect (Javascript ES6), composants créa pub Javascript (video, store locator) et utilisation canvas (Avec Animate CC) pour les créa riches",
+        "Participation nouveau business model, nouvelles offres et optimisation significative des KPI sur les nouvelles créations"
+      ]
+    },
+    {
+      "company": "Marmelab",
+      "position": "Full-stack agile web developer",
+      "website": "http://marmelab.com",
+      "startDate": "2013-08-01",
+      "endDate": "2016-04-30",
+      "summary": "",
+      "highlights": [
+        "Projets open source et blogging autour de AngularJS, ReactJS et Silex",
+        "Différentes missions courtes pour Canal+, AXA Group Solutions et 1859Cloud : API NodeJS, front ReactJS ou AngularJS, base de donnée Postgresql ou MongoDB, admin ng-admin (1 an).",
+        "Amélioration et optimisation d’un produit de la société SensioLabs, en Symfony2, Doctrine, Postgresql, Rabittmq, BackboneJS et Bootstrap (1 an)."
+      ]
+    },
+    {
+      "company": "Groupe L'Express",
+      "position": "Lead web developer",
+      "website": "http://www.expressroulartaservices.fr",
+      "startDate": "2009-03-01",
+      "endDate": "2013-07-31",
+      "summary": "",
+      "highlights": [
+        "Développement (lead) et mise en place du CMF Ocari (symfony / doctrine).",
+        "Déploiement pour les sites à fort traffic lexpress.fr, lexpansion.com, cotemaison.fr et lentreprise.com",
+        "Introduction du gestionnaire de version SVN puis migration sur GIT.",
+        "Mise en place des outils de gestion (Redmine, GitlabHq, Satis, Sentry, Webistrano, Testlink).",
+        "Pilotage de la mise en place de l'infrastucture de prod et de dev.",
+        "Assistance et montée en compétence des équipes (PHP, SQL et Javascript, performance et maintenabilité)."
+      ]
+    },
+    {
+      "company": "Bilendi (ex Elma Ingénierie)",
+      "position": "Web developer",
+      "website": "http://www.bilendi.fr",
+      "startDate": "2008-02-01",
+      "endDate": "2009-02-28",
+      "summary": "",
+      "highlights": [
+        "Réalisation nouvelle version du centre contact client multi-programmes (Zend Framework et Postgresql).",
+        "Développement des programmes de fidélité Hotels B&B et Oney (Zend Framework / Postgres).",
+        "Mise en place d'API de paiement (cyberMut, cyberPlus et Paypal)."
+      ]
+    },
+    {
+      "company": "Inter Action consultant",
+      "position": "Web developer",
+      "website": "http://www.iac.fr",
+      "startDate": "2007-02-01",
+      "endDate": "2008-01-31",
+      "summary": "",
+      "highlights": [
+        "Mise en place de serveurs de développement linux (Debian), d'outils de gestion (trac, phpDoc) et migration vers PHP5 (symfony), Mysql et Subversion.",
+        "Refonte de la partie statistique et de la partie trésorerie, mise en place de briques logiciel sur un outil de défiscalisation en ligne (PHP 4 / Mysql 4.0)."
+      ]
+    },
+    {
+      "company": "Motech",
+      "position": "Web developer",
+      "website": "",
+      "startDate": "2006-09-01",
+      "endDate": "2007-01-31",
+      "summary": "",
+      "highlights": [
+        "Réalisation d'une plateforme d'envoi de SMS à destination d'entreprise (campagnes marketing) à l'aide du framework Symfony (PHP 5 / Mysql 4.1).",
+        "Gestion de l'hébergement (Linux / Apache) et du support client.",
+        "Réalisation du site vitrine, front-office et back-office (multi-langages, système de cache)."
+      ]
+    },
+    {
+      "company": "SensioLabs",
+      "position": "Web developer",
+      "website": "http://sensiolabs.com",
+      "startDate": "2005-09-01",
+      "endDate": "2006-08-31",
+      "summary": "",
+      "highlights": [
+        "Conception d’une formation en Javascript et Ajax.",
+        "Ecriture de modules en PHP et Perl, développement d'applications en PHP 5 / Mysql 4.1 sous Symfony (Galderma, Femina V2, Le Monde).",
+        "Participation au développement et à la documentation du framework Symfony."
+      ]
+    },
+    {
+      "company": "Netonomy",
+      "position": "Quality manager",
+      "website": "http://www.comverse.com/press_releases.aspx?newsId=536",
+      "startDate": "2003-09-01",
+      "endDate": "2005-08-31",
+      "summary": "",
+      "highlights": [
+        "Développement de tests fonctionnels automatiques, environnement JAVA, Oracle, Tomcat, Weblogic, Websphere, Starteam, Perforce, Cygwin, Ant."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "option développeur d'application",
+      "area": "BTS",
+      "studyType": "Informatique de gestion",
+      "startDate": "2003-09-01",
+      "endDate": "2006-07-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "général",
+      "area": "Baccalauréat",
+      "studyType": "Série S",
+      "startDate": "1999-09-01",
+      "endDate": "2003-07-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Jest, The React.js Unit Testing Framework, In Practice",
+      "publisher": "Marmelab Blog",
+      "releaseDate": "2015-06-24",
+      "website": "http://marmelab.com/blog/2015/06/24/jest-in-practice.html",
+      "summary": ""
+    },
+    {
+      "name": "DotScale 2015 Conference Summary",
+      "publisher": "Marmelab Blog",
+      "releaseDate": "2015-06-10",
+      "website": "http://marmelab.com/blog/2015/06/10/dotscale-2015-conference-summary.html",
+      "summary": ""
+    },
+    {
+      "name": "[Video] ArchitectureTree: Visualize Software Architectures In Your Browser",
+      "publisher": "Marmelab Blog",
+      "releaseDate": "2015-01-27",
+      "website": "http://marmelab.com/blog/2015/01/27/architecture-tree-d3js.html",
+      "summary": ""
+    },
+    {
+      "name": "Silex Multifetch: Multiplex Requests To Your PHP API Into A Single HTTP call",
+      "publisher": "Marmelab Blog",
+      "releaseDate": "2015-01-14",
+      "website": "http://marmelab.com/blog/2015/01/14/introducing-silex-multifetch-provider.html",
+      "summary": ""
+    },
+    {
+      "name": "Microrest.php: Generate A RESTful API On Top Of Any Relational Database, Powered By PHP And Silex",
+      "publisher": "Marmelab Blog",
+      "releaseDate": "2015-01-05",
+      "website": "http://marmelab.com/blog/2015/01/05/introducing-microrest-raml-api-in-silex.html",
+      "summary": ""
+    },
+    {
+      "name": "Two days to write my first Protractor tests on the ng-admin AngularJs module",
+      "publisher": "Marmelab Blog",
+      "releaseDate": "2014-12-12",
+      "website": "http://marmelab.com/blog/2014/12/12/protractor-in-ng-admin-angularjs-app.html",
+      "summary": ""
+    },
+    {
+      "name": "Une commande tree plus efficace grâce au Go",
+      "publisher": "Marmelab Blog",
+      "releaseDate": "2014-10-30",
+      "website": "http://marmelab.com/blog/2014/10/30/tree-command-with-go.html",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Général",
+      "level": "",
+      "keywords": [
+        "Développement backend et frontend",
+        "Lead développement",
+        "Architecture",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Méthodologie",
+      "level": "",
+      "keywords": [
+        "Agile (Lean startup)"
+      ]
+    },
+    {
+      "name": "Librairies",
+      "level": "",
+      "keywords": [
+        "ng-admin",
+        "ReactJS",
+        "AngularJS",
+        "KoaJS",
+        "Silex"
+      ]
+    },
+    {
+      "name": "Langages",
+      "level": "",
+      "keywords": [
+        "JavaScript / NodeJS (ES6+)",
+        "PHP 5+",
+        "Python 2.7+",
+        "CSS",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Bases de données",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "Redis",
+        "MongoDB",
+        "MySql",
+        "SqlServer."
+      ]
+    },
+    {
+      "name": "Outils système",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Varnish",
+        "Nginx",
+        "Memcache"
+      ]
+    },
+    {
+      "name": "Outils de développement",
+      "level": "",
+      "keywords": [
+        "Atom",
+        "iTerm",
+        "Git"
+      ]
+    },
+    {
+      "name": "Système d'exploitation",
+      "level": "",
+      "keywords": [
+        "Mac OS X (poste de travail)",
+        "Linux Debian/Ubuntu (serveur)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue natale"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Lecture, écriture"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
