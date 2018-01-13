@@ -233,9 +233,9 @@
       "level": "",
       "keywords": [
         "Développement backend et frontend",
-        "Lead développement",
+        "DevOps",
         "Architecture",
-        "DevOps"
+        "Evengélisation"
       ]
     },
     {
@@ -249,22 +249,21 @@
       "name": "Librairies",
       "level": "",
       "keywords": [
-        "ng-admin",
-        "ReactJS",
-        "AngularJS",
+        "ReactJS / Redux",
         "KoaJS",
-        "Silex"
+        "Symfony"
       ]
     },
     {
       "name": "Langages",
       "level": "",
       "keywords": [
-        "JavaScript / NodeJS (ES6+)",
+        "JavaScript / NodeJS (ESNext)",
         "PHP 5+",
         "Python 2.7+",
         "CSS",
-        "SQL"
+        "SQL",
+        "Bash"
       ]
     },
     {
@@ -274,8 +273,7 @@
         "PostgreSQL",
         "Redis",
         "MongoDB",
-        "MySql",
-        "SqlServer."
+        "MySql"
       ]
     },
     {
@@ -285,14 +283,15 @@
         "Docker",
         "Varnish",
         "Nginx",
-        "Memcache"
+        "Memcached",
+        "HAProxy"
       ]
     },
     {
       "name": "Outils de développement",
       "level": "",
       "keywords": [
-        "Atom",
+        "Atom / Visual Studio Code",
         "iTerm",
         "Git"
       ]
